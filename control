@@ -1,0 +1,9 @@
+Package: com.truongmods.awscognito
+Name: AWSCognito
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: AWSCognito framework package.
+Maintainer: TruongMods
+Author: TruongMods
+Section: Libraries
+Priority: optional
